@@ -1,4 +1,4 @@
-import tkinter as tk
+import tkinter as tk #git_4o
 from tkinter import filedialog, messagebox, ttk
 import chardet  # 自动检测文件编码
 
